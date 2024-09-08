@@ -34,7 +34,8 @@ The script navigates to the Amazon Egypt website's electronics section, filters 
 - Device Image URL
 - Reviews
 - About this Phone
- The extracted data is stored in a Pandas DataFrame and then exported to a CSV file named Mobiles & accessories.csv.
+
+The extracted data is stored in a Pandas DataFrame and then exported to a CSV file named Mobiles & accessories.csv.
 
 ## Notes
 * Ensure your ChromeDriver is compatible with your installed Chrome browser version.
