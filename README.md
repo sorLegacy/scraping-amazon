@@ -1,19 +1,21 @@
-Amazon Mobile Phones Scraper
+# Amazon Mobile Phones Scraper
+
 This project is a web scraper for extracting data from Amazon's mobile phones and accessories section. It uses Python with the Selenium library to automate browsing and data extraction. The extracted data is saved to a CSV file.
 
-Prerequisites
-Python 3.x
-Selenium
-Chrome WebDriver
-Pandas
-Numpy
-Installation
-Install the necessary Python libraries using pip:
+## Prerequisites
 
-bash
-Copy code
-pip install pandas numpy selenium webdriver-manager
-Ensure you have Google Chrome installed, as the script uses ChromeDriver for Selenium automation.
+- Python 3.x
+- Selenium
+- Chrome WebDriver
+- Pandas
+- Numpy
+
+## Installation
+
+1. Install the necessary Python libraries using pip:
+
+   ```bash
+   pip install pandas numpy selenium webdriver-manager
 
 Usage
 Run the script: The script initializes a Selenium WebDriver session and navigates to the Amazon Egypt website's electronics section to scrape mobile phone data.
@@ -47,4 +49,3 @@ Some elements might not be found, leading to exceptions. The script attempts to 
 Make sure to respect Amazon's terms of service regarding web scraping.
 License
 This project is licensed under the MIT License.
-
