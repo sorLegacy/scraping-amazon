@@ -30,7 +30,7 @@ Price Before Sale
 Price After Sale
 Storage Capacity
 RAM
-Rating 
+Rating
 Number of Ratings
 Purchased Last Month
 Device Image URL
